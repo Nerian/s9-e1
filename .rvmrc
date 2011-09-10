@@ -1,0 +1,4 @@
+# Generated with Simple_gemset 
+rvm use jruby
+rvm gemset create wordcram
+rvm gemset use wordcram
